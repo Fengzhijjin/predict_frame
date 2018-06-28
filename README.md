@@ -8,5 +8,7 @@
   - Email：[790402599@qq.com](790402599@qq.com)
   - Github: [https://github.com/Fengzhijjin](https://github.com/Fengzhijjin)
 ### 项目截图
-
+![代价迭代下降图](https://github.com/Fengzhijjin/predict_frame/blob/master/images/01.png)
+![模型构建图](https://github.com/Fengzhijjin/predict_frame/blob/master/images/03.png)
+![模型生成图](https://github.com/Fengzhijjin/predict_frame/blob/master/images/02.png)
  
